@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 27 15:10:39 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-696e-53e5-0000076843b8 
+on database directory /Users/harshitjain/Downloads/db-derby-10.13.1.1-bin/bin/dumyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@27fa135a 
+Loaded from file:/Users/harshitjain/Downloads/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/Users/harshitjain/Documents/Github/javaPractice/Instagram
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
